@@ -1,2 +1,2 @@
-# c-data-structure
+# C Data Structure
 Practice Data Structure using C
