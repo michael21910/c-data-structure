@@ -15,6 +15,9 @@ The problems are [here](134.208.3.66)
         * Please finish function enqueue and dequeue
         * Function enqueue will insert the data from the top of queue and return 1 on success, return -1 if not.
         * Function dequeue will remove one data from the bottom of queue and return a pointer point the data, return NULL if there are on data.
+* [w4](w4)
+    * [w4-1](w4/w4-1.c)
+        * Please finish the three sorting function in template, bubble sort, selection sort and insertion sort.
   
 ## License
 [MIT](License) © Tsuen Hsueh
