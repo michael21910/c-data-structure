@@ -1,6 +1,6 @@
 # C Data Structure
 Practice Data Structure using C  
-The problems are [here](http://134.208.3.66/problems)   
+The problems are [here](http://134.208.3.66/problems?keyword=DS&page=1)   
   
 ## Problems and Description
 * [w2](w2)
