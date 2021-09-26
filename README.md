@@ -26,6 +26,10 @@ The problems are [here](http://134.208.3.66/problems?keyword=DS&page=1)
         * Please finish two function push and pop
         * Function push will push the data into stack and return 1 if success, return -1 if not.
         * Function pop will pop the top data from stack and return a pointer point to the data, return NULL if there is no data.
+    * [w3-3](w3/w3-3.c)
+        * Please finish function enqueue and dequeue
+        * Function enqueue will insert the data from the top of queue and return 1 on success, return -1 if not.
+        * Function dequeue will remove one data from the bottom of queue and return a pointer point the data, return NULL if there are on data.
 * [w4](w4)
     * [w4-1](w4/w4-1.c)
         * Please finish the three sorting function in template, bubble sort, selection sort and insertion sort.
