@@ -22,6 +22,10 @@ The problems are [here](http://134.208.3.66/problems)
         * Function unions union two set and return the result.
         * Function intersection intersect two set and return the result.
         * Function equivalent return true if two set have the same element, return false if not.
+    * [w3-2](w3/w3-2.c)
+        * Please finish two function push and pop
+        * Function push will push the data into stack and return 1 if success, return -1 if not.
+        * Function pop will pop the top data from stack and return a pointer point to the data, return NULL if there is no data.
 * [w4](w4)
     * [w4-1](w4/w4-1.c)
         * Please finish the three sorting function in template, bubble sort, selection sort and insertion sort.
