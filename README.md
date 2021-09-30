@@ -36,5 +36,7 @@ The problems are [here](http://134.208.3.66/problems?keyword=DS&page=1)
     * [w4-2](w4/w4-2.c)
         * Please finish the three sorting function in template, bubble sort, selection sort and insertion sort.
   
+Since the questions are all closed right now, this repo will stop updating.  
+  
 ## License
 [MIT](License) © Tsuen Hsueh
